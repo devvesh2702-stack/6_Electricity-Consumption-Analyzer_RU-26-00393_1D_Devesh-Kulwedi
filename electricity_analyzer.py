@@ -118,7 +118,7 @@ while True:
     elif choice == "2":
         show_above_average()
     elif choice == "3":
-        print("Goodbye")
+        print("Goodbye!")
         break
     else:
         print("Wrong choice, please enter 1, 2 or 3.")
