@@ -87,37 +87,6 @@ Some things I could add in the future:
 - Saving the summary to a text or Excel file.
 - A simple window with buttons instead of the console menu.
 
-## How to Run
-
-1. Install Python 3 and the three libraries:
-
-   ```
-   pip install pandas numpy matplotlib
-   ```
-
-2. Keep `electricity_analyzer.py` and `usage.csv` in the same folder.
-3. Open the terminal in that folder and run:
-
-   ```
-   python electricity_analyzer.py
-   ```
-
-4. Choose an option from the menu:
-
-   ```
-   1. Summary
-   2. Above-average months and chart
-   3. Exit
-   ```
-
-The CSV file has two columns, Month and Units, and a header row is optional:
-
-```
-Jan,200
-Feb,250
-Mar,300
-```
-
 ## Files
 
 | File | Description |
